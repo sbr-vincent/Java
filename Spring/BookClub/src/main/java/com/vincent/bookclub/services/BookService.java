@@ -6,7 +6,6 @@ import java.util.Optional;
 import org.springframework.stereotype.Service;
 
 import com.vincent.bookclub.models.Book;
-import com.vincent.bookclub.models.User;
 import com.vincent.bookclub.repos.BookRepo;
 
 @Service
